@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# product sales system
 
 Es un sistema de venta de 10 productos distintos con un CRUD.
 
