@@ -1,4 +1,8 @@
-# Ignorar archivos de entorno
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
 # Ignorar archivos de compilación
 /dist
